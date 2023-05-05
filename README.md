@@ -9,7 +9,7 @@
 
 - HTML
 
-## SOBRE MI ##
+## SOBRE MI:
 
 ### Portfolio:
 - https://mau-webs-portfolio.netlify.app
